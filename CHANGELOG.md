@@ -2,6 +2,42 @@
 
 All notable changes to Company Nexus are documented in this file.
 
+## [1.1.0] - 2026-10-06
+
+### Added
+
+- **Expanded company operations workspace**
+  - Updated dashboard content and operational views to better surface company
+    resources, key metrics, and quick-access information.
+  - Improved overview and navigation flows for faster access to tools, reports,
+    and team resources.
+
+- **Improved knowledge and AI workflows**
+  - Strengthened knowledge-base retrieval and assistant assistance with more
+    reliable contextual lookups and citation-aware guidance.
+  - Added more robust confirm-before-write patterns for safe proposal-driven
+    updates to shared company content.
+
+- **Operational tooling refinements**
+  - Improved team directory, tracker, and board interactions for smoother record
+    review and work tracking.
+  - Expanded support for managing application details, reports, and shared
+    operational workflows across the platform.
+
+### Changed
+
+- Refined the app shell, modal interactions, and visual feedback patterns to
+  provide a more polished and consistent experience.
+- Tightened database and Firebase integration behavior for shared data access,
+  sync, and local fallback handling.
+
+### Fixed
+
+- Resolved workflow and UI inconsistencies in core navigation, data-driven
+  views, and shared operational dashboards.
+- Improved handling of local seed data and fallback scenarios when external
+  services are unavailable.
+
 ## [1.0.0] - 2026-10-06
 
 Initial release of Company Nexus, an internal operations hub for company tools,

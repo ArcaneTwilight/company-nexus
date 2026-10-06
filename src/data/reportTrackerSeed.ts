@@ -3,10 +3,6 @@ import { COMPANY_MASTER_APPS } from "./companyMasterApps";
 interface SeedQuarterStatus {
   fr: boolean | null;
   ip: boolean | null;
-  ep: boolean | null;
-  mda: boolean | null;
-  pr: boolean | null;
-  t: boolean | null;
   others: string;
   completed: boolean;
 }
@@ -32,7 +28,10 @@ export interface ReportTrackerSeedEntry {
   docLib: boolean;
 }
 
-const QUARTERS = ["2026-Q1", "2026-Q2", "2026-Q3", "2026-Q4"];
+const REPORT_YEARS = [2025, 2026];
+const QUARTERS = REPORT_YEARS.flatMap((year) =>
+  ["Q1", "Q2", "Q3", "Q4"].map((quarter) => `${year}-${quarter}`)
+);
 
 function demoNumber(rank: number, salt: number): number {
   let value = Math.imul(rank ^ salt, 0x45d9f3b);
@@ -47,17 +46,15 @@ export const REPORT_TRACKER_SEED: ReportTrackerSeedEntry[] =
     const quarters = Object.fromEntries(
       QUARTERS.map((quarter, quarterIndex) => {
         const hasUploads = demoNumber(rank, quarterIndex + 71) % 4 !== 0;
+        const hasPresentation =
+          hasUploads && demoNumber(rank, quarterIndex + 73) % 3 !== 0;
         return [
           quarter,
           {
             fr: hasUploads,
-            ip: hasUploads && demoNumber(rank, quarterIndex + 73) % 3 !== 0,
-            ep: null,
-            mda: null,
-            pr: null,
-            t: null,
+            ip: hasPresentation,
             others: "",
-            completed: hasUploads,
+            completed: hasUploads && hasPresentation,
           },
         ];
       })
@@ -73,13 +70,16 @@ export const REPORT_TRACKER_SEED: ReportTrackerSeedEntry[] =
       annualReports: demoNumber(rank, 83) % 4 !== 0,
       esgReports: demoNumber(rank, 89) % 3 !== 0,
       quarters,
-      annual: {
-        "2025": {
-          ar: demoNumber(rank, 97) % 4 !== 0,
-          sr: demoNumber(rank, 101) % 3 !== 0,
-          others: "",
-        },
-      },
+      annual: Object.fromEntries(
+        [2024, 2025].map((year, yearIndex) => [
+          String(year),
+          {
+            ar: demoNumber(rank, yearIndex + 97) % 4 !== 0,
+            sr: demoNumber(rank, yearIndex + 101) % 3 !== 0,
+            others: "",
+          },
+        ])
+      ),
       financialCalendar: demoNumber(rank, 103) % 2 === 0,
       docLib: demoNumber(rank, 107) % 3 === 0,
     };

@@ -1,5 +1,10 @@
 import { useState, useEffect, useCallback, useRef } from "react";
-import { onAuthStateChanged, signOut, type User } from "firebase/auth";
+import {
+  onAuthStateChanged,
+  signInAnonymously,
+  signOut,
+  type User,
+} from "firebase/auth";
 import {
   INITIAL_TOOLS,
   INITIAL_FAQS,
@@ -343,6 +348,17 @@ export function useNexusData(sessionToken: string | null): UseNexusDataResult {
       if (!user) {
         setIsDataReady(false);
         seededRef.current = false;
+        void signInAnonymously(auth).catch((error: unknown) => {
+          console.error("Failed to start Firebase guest session:", error);
+          setSyncError(
+            error instanceof Error
+              ? error.message
+              : "Failed to start a Firebase guest session."
+          );
+          setIsDataReady(true);
+        });
+      } else {
+        setSyncError(null);
       }
     });
 
@@ -381,7 +397,7 @@ export function useNexusData(sessionToken: string | null): UseNexusDataResult {
             const message = error.message || "Firestore permission denied";
             setSyncError(
               message.includes("permission")
-                ? `${message} — deploy firestore.rules in Firebase and ensure you are signed in.`
+                ? `${message} — deploy firestore.rules in Firebase and verify guest read access.`
                 : message
             );
             setIsDataReady(true);
@@ -391,7 +407,7 @@ export function useNexusData(sessionToken: string | null): UseNexusDataResult {
         // Listeners are active; show the app even while seeding runs.
         setIsDataReady(true);
 
-        if (!seededRef.current) {
+        if (!firebaseUser.isAnonymous && !seededRef.current) {
           await seedNexusDataIfEmpty();
           await seedStockExchangesIfEmpty();
           await seedcompanyAppsIfEmpty();

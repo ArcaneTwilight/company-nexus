@@ -390,12 +390,8 @@ export interface OtherReportItem {
 }
 
 export interface QuarterReportStatus {
-  fr: boolean | null; // FR/FS/QR
-  ip: boolean | null; // IP
-  ep: boolean | null; // EP/RP
-  mda: boolean | null; // MD&A
-  pr: boolean | null; // PR/ER
-  t: boolean | null; // T/ECT
+  fr: boolean | null;
+  ip: boolean | null;
   others: OtherReportItem[];
   completed: boolean;
 }
@@ -428,7 +424,7 @@ export interface ReportTrackerEntry {
 
 export type ReportQuarterView = "Q1" | "Q2" | "Q3" | "Q4" | "annual";
 
-export type QuarterReportFieldId = "fr" | "ip" | "ep" | "mda" | "pr" | "t";
+export type QuarterReportFieldId = "fr" | "ip";
 export type AnnualReportFieldId = "ar" | "sr";
 
 /** One row in the Internal Production Tracker */

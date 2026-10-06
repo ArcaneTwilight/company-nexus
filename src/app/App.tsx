@@ -1,5 +1,4 @@
 import { useState } from "react";
-import LoginScreen from "../components/LoginScreen";
 import { AirAChatLauncher } from "../components/AirAChatLauncher";
 import { NavTabs, LoadingPulse } from "../components/motion";
 import { useNexusData } from "../hooks/useNexusData";
@@ -14,17 +13,7 @@ import type { AppTab } from "./types";
 export default function App() {
   const useFirestore = isFirebaseConfigured();
 
-  const [sessionToken, setSessionToken] = useState<string | null>(() => {
-    if (useFirestore) return null;
-    const current = sessionStorage.getItem("company_nexus_session");
-    if (current) return current;
-    const legacy = sessionStorage.getItem("irapp_nexus_session");
-    if (legacy) sessionStorage.setItem("company_nexus_session", legacy);
-    return legacy || null;
-  });
-
-  const nexus = useNexusData(sessionToken);
-  const isAuthenticated = useFirestore ? Boolean(nexus.firebaseUser) : Boolean(sessionToken);
+  const nexus = useNexusData(null);
 
   const [activeTab, setActiveTab] = useState<AppTab>("dashboard");
   const [sectionFilter, setSectionFilter] = useState("");
@@ -34,19 +23,18 @@ export default function App() {
     setSectionFilter(filter);
   };
 
-  const handleLoginSuccess = (token: string) => {
-    if (!useFirestore) {
-      sessionStorage.setItem("company_nexus_session", token);
-      setSessionToken(token);
-    }
-  };
-
   if (!nexus.isAuthReady) {
     return <LoadingPulse label="Initializing..." />;
   }
 
-  if (!isAuthenticated) {
-    return <LoginScreen onLoginSuccess={handleLoginSuccess} />;
+  if (useFirestore && !nexus.firebaseUser) {
+    return (
+      <LoadingPulse label={nexus.syncError ? "Unable to start guest session" : "Starting guest session..."}>
+        {nexus.syncError && (
+          <p className="text-amber-300 text-xs max-w-md mt-2">{nexus.syncError}</p>
+        )}
+      </LoadingPulse>
+    );
   }
 
   if (useFirestore && !nexus.isDataReady) {

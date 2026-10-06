@@ -6,102 +6,111 @@ service cloud.firestore {
       return request.auth != null;
     }
 
+    function isGuest() {
+      return isSignedIn()
+        && request.auth.token.firebase.sign_in_provider == 'anonymous';
+    }
+
+    function canWrite() {
+      return isSignedIn() && !isGuest();
+    }
+
     match /meta/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /tools/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /faqs/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /kbArticles/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /links/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /metrics/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /stockExchanges/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /companyApps/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /calendarEvents/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /teamMembers/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /contactTeams/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /knowledgeDocs/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /kanbanBoards/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /kanbanCards/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /reportTracker/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     match /productionTracker/{docId} {
       allow read: if isSignedIn();
-      allow write: if isSignedIn();
+      allow write: if canWrite();
     }
 
     // Agent write proposals — users may create/update their own pending proposals
     match /agentProposals/{docId} {
       allow read: if isSignedIn();
-      allow create: if isSignedIn()
+      allow create: if canWrite()
         && request.resource.data.status == 'pending'
         && request.resource.data.createdBy == request.auth.uid;
-      allow update: if isSignedIn()
+      allow update: if canWrite()
         && resource.data.createdBy == request.auth.uid
         && request.resource.data.createdBy == resource.data.createdBy;
-      allow delete: if isSignedIn() && resource.data.createdBy == request.auth.uid;
+      allow delete: if canWrite() && resource.data.createdBy == request.auth.uid;
     }
 
     // Append-only style audit trail for agent confirm/reject decisions
     match /agentAudits/{docId} {
       allow read: if isSignedIn();
-      allow create: if isSignedIn();
+      allow create: if canWrite();
       allow update, delete: if false;
     }
   }

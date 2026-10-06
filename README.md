@@ -97,7 +97,7 @@ Legacy `VITE_FIREBASE_*` names are still accepted for compatibility.
 
 When Firebase is configured, the app uses Firebase Authentication and Firestore-backed shared data.
 The Firebase client settings can be provided as `FIREBASE_*` or `VITE_FIREBASE_*` variables. Only the Firebase client settings and auth email are exposed to the browser bundle; do not put service-account credentials in either prefix.
-The supplied project settings are stored locally in the ignored `.env.local`; configure the same client settings in your hosting provider for deployed builds. Deploy `firestore.rules` to the project and sign in with a Firebase Auth user before the app can sync.
+The supplied project settings are stored locally in the ignored `.env.local`; configure the same client settings in your hosting provider for deployed builds. Enable Anonymous sign-in in Firebase Authentication and deploy `firestore.rules` so visitors can start in read-only guest mode. Non-anonymous Firebase Auth users retain write access; the login page is temporarily hidden.
 
 ### Optional Local / Login Configuration
 
@@ -152,18 +152,19 @@ Manual verification checklist:
 
 ### Firebase Mode
 
-Use Firebase when you want shared team data and production-style auth.
+Use Firebase when you want shared team data.
 
-- Sign-in uses Firebase Auth
+- Visitors automatically start an anonymous Firebase Auth session and can read Firestore data only
+- Non-anonymous Firebase Auth users retain write access
 - Collections sync live from Firestore
-- Missing bundled seed records are added to each collection on sign-in without overwriting existing records
+- Missing bundled seed records are added to each collection for non-anonymous users without overwriting existing records
 - Production deployments expect Firebase to be configured
 
 ### Local Mode
 
 Use local mode for quick standalone development.
 
-- Login is handled by the local Express endpoint
+- The app starts directly in the overview without a login page
 - Data is stored in browser local storage
 - No shared sync across users or browsers
 

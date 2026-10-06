@@ -8,8 +8,21 @@ import type {
 } from "../../types";
 import { EditEntryModal } from "./EditEntryModal";
 import { ReportTrackerTable } from "./ReportTrackerTable";
+import { QuarterSelector } from "./QuarterSelector";
+import { OthersEditorModal } from "./OthersEditorModal";
 import { matchReportEntriesToClients } from "./matchClients";
-import { createEntryFromApp } from "./quarterUtils";
+import {
+  annualYearForView,
+  computeStats,
+  createEntryFromApp,
+  getAnnualStatus,
+  getPreviousQuarter,
+  getQuarterStatus,
+  isEntryCompletedForView,
+  quarterKey,
+  withDerivedQuarterCompleted,
+} from "./quarterUtils";
+import type { OtherReportItem, ReportQuarterView } from "../../types";
 
 interface ReportTrackerSectionProps {
   apps: companymasterapp[];
@@ -20,14 +33,6 @@ interface ReportTrackerSectionProps {
 
 type CompletionFilter = "all" | "open" | "done";
 
-function isComplete(entry: ReportTrackerEntry): boolean {
-  return (
-    entry.financialReports === true &&
-    entry.annualReports === true &&
-    entry.esgReports === true
-  );
-}
-
 export function ReportTrackerSection({
   apps,
   entries,
@@ -37,9 +42,18 @@ export function ReportTrackerSection({
   const [searchTerm, setSearchTerm] = useState(initialSearch);
   const [completionFilter, setCompletionFilter] =
     useState<CompletionFilter>("all");
+  const [period, setPeriod] = useState<{
+    year: number;
+    quarter: ReportQuarterView;
+  }>(getPreviousQuarter);
   const [editingEntry, setEditingEntry] = useState<ReportTrackerEntry | null>(
     null
   );
+  const [editingOthers, setEditingOthers] = useState<{
+    entry: ReportTrackerEntry;
+    year: number;
+    view: ReportQuarterView;
+  } | null>(null);
   const knownAppIdsRef = useRef<Set<string>>(new Set(apps.map((app) => app.id)));
   const onUpsertRef = useRef(onUpsert);
   onUpsertRef.current = onUpsert;
@@ -99,20 +113,59 @@ export function ReportTrackerSection({
           return false;
         }
       }
-      if (completionFilter === "done") return isComplete(entry);
-      if (completionFilter === "open") return !isComplete(entry);
+      const completed = isEntryCompletedForView(
+        entry,
+        period.year,
+        period.quarter
+      );
+      if (completionFilter === "done") return completed;
+      if (completionFilter === "open") return !completed;
       return true;
     });
-  }, [linkedEntries, searchTerm, appsById, completionFilter]);
+  }, [linkedEntries, searchTerm, appsById, completionFilter, period]);
 
-  const completedCount = linkedEntries.filter(isComplete).length;
-  const percentage = linkedEntries.length
-    ? Math.round((completedCount / linkedEntries.length) * 100)
-    : 0;
+  const stats = computeStats(linkedEntries, period.year, period.quarter);
 
   function handleUpdateEntry(next: ReportTrackerEntry) {
     void onUpsert(next);
   }
+
+  function handleSaveOthers(items: OtherReportItem[]) {
+    if (!editingOthers) return;
+    const { entry, year, view } = editingOthers;
+    if (view === "annual") {
+      const key = String(annualYearForView(year));
+      const status = getAnnualStatus(entry, year);
+      handleUpdateEntry({
+        ...entry,
+        annual: {
+          ...entry.annual,
+          [key]: { ...status, others: items },
+        },
+      });
+      return;
+    }
+
+    const key = quarterKey(year, view);
+    const status = withDerivedQuarterCompleted({
+      ...getQuarterStatus(entry, year, view),
+      others: items,
+    });
+    handleUpdateEntry({
+      ...entry,
+      quarters: { ...entry.quarters, [key]: status },
+    });
+  }
+
+  const editingOthersItems = editingOthers
+    ? editingOthers.view === "annual"
+      ? getAnnualStatus(editingOthers.entry, editingOthers.year).others
+      : getQuarterStatus(
+          editingOthers.entry,
+          editingOthers.year,
+          editingOthers.view
+        ).others
+    : [];
 
   return (
     <div className="space-y-4">
@@ -121,7 +174,7 @@ export function ReportTrackerSection({
           <div>
             <h2 className="text-sm font-semibold text-fg">Report monitoring</h2>
             <p className="mt-1 text-xs text-fg-subtle">
-              Sample tracker data · update each report category as it is received.
+              Sample tracker data · update each report status as it is received.
             </p>
           </div>
           <div className="w-full md:w-80">
@@ -131,6 +184,19 @@ export function ReportTrackerSection({
               placeholder="Search company or code…"
             />
           </div>
+        </div>
+
+        <div className="mt-4 border-t border-border pt-4">
+          <QuarterSelector
+            year={period.year}
+            view={period.quarter}
+            onYearChange={(year) =>
+              setPeriod((current) => ({ ...current, year }))
+            }
+            onViewChange={(quarter) =>
+              setPeriod((current) => ({ ...current, quarter }))
+            }
+          />
         </div>
 
         <div className="mt-4 flex flex-wrap items-center justify-between gap-3">
@@ -157,8 +223,8 @@ export function ReportTrackerSection({
             ))}
           </div>
           <p className="text-xs text-fg-subtle">
-            {completedCount} of {linkedEntries.length} companies complete
-            {` · ${percentage}%`}
+            {stats.completed} of {stats.total} companies complete
+            {` · ${stats.percentage}%`}
           </p>
         </div>
       </div>
@@ -172,7 +238,10 @@ export function ReportTrackerSection({
           companies
         </p>
         <p className="hidden sm:block">
-          Click a report status to mark it uploaded or missing
+          {period.quarter === "annual"
+            ? `Annual reports · FY ${annualYearForView(period.year)}`
+            : `${period.quarter} ${period.year}`}{" "}
+          · Click a report status to update it
         </p>
       </div>
 
@@ -185,7 +254,12 @@ export function ReportTrackerSection({
         <ReportTrackerTable
           entries={filteredEntries}
           appsById={appsById}
+          year={period.year}
+          view={period.quarter}
           onEditEntry={setEditingEntry}
+          onEditOthers={(entry, year, view) =>
+            setEditingOthers({ entry, year, view })
+          }
           onUpdateEntry={handleUpdateEntry}
         />
       )}
@@ -203,6 +277,17 @@ export function ReportTrackerSection({
           if (!editingEntry) return;
           handleUpdateEntry({ ...editingEntry, ...patch });
         }}
+      />
+      <OthersEditorModal
+        open={Boolean(editingOthers)}
+        title={
+          editingOthers?.view === "annual"
+            ? "Edit annual other reports"
+            : "Edit quarterly other reports"
+        }
+        items={editingOthersItems}
+        onClose={() => setEditingOthers(null)}
+        onSave={handleSaveOthers}
       />
     </div>
   );

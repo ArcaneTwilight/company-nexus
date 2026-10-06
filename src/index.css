@@ -310,6 +310,10 @@ body::after {
     background-color var(--duration-fast) var(--ease-default);
 }
 
+.glass-container.app-header {
+  clip-path: none;
+}
+
 .glass-card:hover,
 .glass-container:focus-within {
   border-color: var(--nexus-accent);

@@ -8,17 +8,13 @@ import type {
 } from "../../types";
 import type { ReportTrackerSeedEntry } from "../../data/reportTrackerSeed";
 
-export const REPORT_YEARS = [2024, 2025, 2026] as const;
+export const REPORT_YEARS = [2025, 2026] as const;
 
 export const QUARTER_TABS: ReportQuarterView[] = ["Q1", "Q2", "Q3", "Q4", "annual"];
 
 export const QUARTER_REPORT_COLUMNS = [
-  { id: "fr", label: "FR/FS/QR" },
-  { id: "ip", label: "IP" },
-  { id: "ep", label: "EP/RP" },
-  { id: "mda", label: "MD&A" },
-  { id: "pr", label: "PR/ER" },
-  { id: "t", label: "T/ECT" },
+  { id: "fr", label: "Financial Reports" },
+  { id: "ip", label: "Presentations" },
 ] as const;
 
 export type QuarterReportFieldId = (typeof QUARTER_REPORT_COLUMNS)[number]["id"];
@@ -37,6 +33,19 @@ export function getCurrentYear(): number {
   return new Date().getFullYear();
 }
 
+export function getPreviousQuarter(): {
+  year: number;
+  quarter: Exclude<ReportQuarterView, "annual">;
+} {
+  const now = new Date();
+  const currentQuarter = Math.floor(now.getMonth() / 3);
+  const previousQuarter = (currentQuarter + 3) % 4;
+  return {
+    year: currentQuarter === 0 ? now.getFullYear() - 1 : now.getFullYear(),
+    quarter: (["Q1", "Q2", "Q3", "Q4"] as const)[previousQuarter],
+  };
+}
+
 export function quarterKey(year: number, quarter: ReportQuarterView): string {
   if (quarter === "annual") return String(year);
   return `${year}-${quarter}`;
@@ -51,10 +60,6 @@ export function emptyQuarterStatus(): QuarterReportStatus {
   return {
     fr: null,
     ip: null,
-    ep: null,
-    mda: null,
-    pr: null,
-    t: null,
     others: [],
     completed: false,
   };
@@ -146,19 +151,9 @@ function areOthersDone(others: OtherReportItem[]): boolean {
 
 /** Derive completed from field + Others upload state. */
 export function deriveQuarterCompleted(status: QuarterReportStatus): boolean {
-  const fieldsDone = areStandardFieldsDone([
-    status.fr,
-    status.ip,
-    status.ep,
-    status.mda,
-    status.pr,
-    status.t,
-  ]);
+  const fieldsDone = areStandardFieldsDone([status.fr, status.ip]);
   const othersDone = areOthersDone(status.others);
-  const hasTracked =
-    [status.fr, status.ip, status.ep, status.mda, status.pr, status.t].some(
-      (v) => v !== null
-    ) || status.others.length > 0;
+  const hasTracked = status.fr !== null || status.ip !== null || status.others.length > 0;
   if (!hasTracked) return false;
   return fieldsDone && othersDone;
 }

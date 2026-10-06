@@ -30,7 +30,7 @@ export function AppHeader({
 
   return (
     <>
-      <header className="p-4 sm:p-5 glass-container border border-border flex flex-col md:flex-row gap-4 justify-between items-center relative z-30 shadow-2xl">
+      <header className="app-header p-4 sm:p-5 glass-container border border-border flex flex-col md:flex-row gap-4 justify-between items-center relative z-30 shadow-2xl">
         <div className="flex items-center gap-3 shrink-0">
           <button
             type="button"
