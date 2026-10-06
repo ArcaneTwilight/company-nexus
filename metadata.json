@@ -1,0 +1,6 @@
+{
+  "name": "Company Nexus",
+  "description": "Central hub for company resources, quick tools, searchable knowledge bases, and metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

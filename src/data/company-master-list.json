@@ -1,0 +1,5802 @@
+[
+  {
+    "id": "company-000-walmart",
+    "companyName": "Walmart",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-001-amazon",
+    "companyName": "Amazon",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-002-unitedhealth-group",
+    "companyName": "UnitedHealth Group",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-003-apple",
+    "companyName": "Apple",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-004-cvs-health",
+    "companyName": "CVS Health",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-005-berkshire-hathaway",
+    "companyName": "Berkshire Hathaway",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-006-alphabet",
+    "companyName": "Alphabet",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-007-exxon-mobil",
+    "companyName": "Exxon Mobil",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-008-mckesson",
+    "companyName": "McKesson",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-009-cencora",
+    "companyName": "Cencora",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-010-jpmorgan-chase",
+    "companyName": "JPMorgan Chase",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-011-costco-wholesale",
+    "companyName": "Costco Wholesale",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-012-microsoft",
+    "companyName": "Microsoft",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-013-cardinal-health",
+    "companyName": "Cardinal Health",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-014-chevron",
+    "companyName": "Chevron",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-015-cigna-group",
+    "companyName": "Cigna Group",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-016-ford-motor",
+    "companyName": "Ford Motor",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-017-bank-of-america",
+    "companyName": "Bank of America",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-018-general-motors",
+    "companyName": "General Motors",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-019-elevance-health",
+    "companyName": "Elevance Health",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-020-citigroup",
+    "companyName": "Citigroup",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-021-centene",
+    "companyName": "Centene",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-022-home-depot",
+    "companyName": "Home Depot",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-023-walgreens-boots-alliance",
+    "companyName": "Walgreens Boots Alliance",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-024-kroger",
+    "companyName": "Kroger",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-025-marathon-petroleum",
+    "companyName": "Marathon Petroleum",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-026-phillips-66",
+    "companyName": "Phillips 66",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-027-fannie-mae",
+    "companyName": "Fannie Mae",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-028-valero-energy",
+    "companyName": "Valero Energy",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-029-meta-platforms",
+    "companyName": "Meta Platforms",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-030-verizon-communications",
+    "companyName": "Verizon Communications",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-031-goldman-sachs-group",
+    "companyName": "Goldman Sachs Group",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-032-wells-fargo",
+    "companyName": "Wells Fargo",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-033-tesla",
+    "companyName": "Tesla",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-034-freddie-mac",
+    "companyName": "Freddie Mac",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-035-state-farm-insurance",
+    "companyName": "State Farm Insurance",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-036-humana",
+    "companyName": "Humana",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-037-fedex",
+    "companyName": "FedEx",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-038-comcast",
+    "companyName": "Comcast",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-039-john-deere",
+    "companyName": "John Deere",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-040-pepsico",
+    "companyName": "PepsiCo",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-041-united-parcel-service",
+    "companyName": "United Parcel Service",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-042-archer-daniels-midland",
+    "companyName": "Archer Daniels Midland",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-043-procter-gamble",
+    "companyName": "Procter & Gamble",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-044-lowe-s",
+    "companyName": "Lowe's",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-045-johnson-johnson",
+    "companyName": "Johnson & Johnson",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-046-albertsons",
+    "companyName": "Albertsons",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-047-target",
+    "companyName": "Target",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-048-energy-transfer",
+    "companyName": "Energy Transfer",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-049-rtx",
+    "companyName": "RTX",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-050-dell-technologies",
+    "companyName": "Dell Technologies",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-051-sysco",
+    "companyName": "Sysco",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-052-merck",
+    "companyName": "Merck",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-053-morgan-stanley",
+    "companyName": "Morgan Stanley",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-054-intel",
+    "companyName": "Intel",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-055-progressive",
+    "companyName": "Progressive",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-056-american-airlines-group",
+    "companyName": "American Airlines Group",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-057-caterpillar",
+    "companyName": "Caterpillar",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-058-plains-gp-holdings",
+    "companyName": "Plains GP Holdings",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-059-ibm",
+    "companyName": "IBM",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-060-metlife",
+    "companyName": "MetLife",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-061-hca-healthcare",
+    "companyName": "HCA Healthcare",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-062-publix-super-markets",
+    "companyName": "Publix Super Markets",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-063-tyson-foods",
+    "companyName": "Tyson Foods",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-064-nationwide",
+    "companyName": "Nationwide",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-065-allstate",
+    "companyName": "Allstate",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-066-delta-air-lines",
+    "companyName": "Delta Air Lines",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-067-tjx-companies",
+    "companyName": "TJX Companies",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-068-nike",
+    "companyName": "Nike",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-069-best-buy",
+    "companyName": "Best Buy",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-070-bristol-myers-squibb",
+    "companyName": "Bristol-Myers Squibb",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-071-united-airlines-holdings",
+    "companyName": "United Airlines Holdings",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-072-enterprise-products-partners",
+    "companyName": "Enterprise Products Partners",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-073-pbf-energy",
+    "companyName": "PBF Energy",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-074-liberty-mutual-insurance-group",
+    "companyName": "Liberty Mutual Insurance Group",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-075-conocophillips",
+    "companyName": "ConocoPhillips",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-076-performance-food-group",
+    "companyName": "Performance Food Group",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-077-uber-technologies",
+    "companyName": "Uber Technologies",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-078-thermo-fisher-scientific",
+    "companyName": "Thermo Fisher Scientific",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-079-abbott-laboratories",
+    "companyName": "Abbott Laboratories",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-080-northrop-grumman",
+    "companyName": "Northrop Grumman",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-081-charter-communications",
+    "companyName": "Charter Communications",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-082-capital-one-financial",
+    "companyName": "Capital One Financial",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-083-cisco-systems",
+    "companyName": "Cisco Systems",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-084-hp",
+    "companyName": "HP",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-085-american-express",
+    "companyName": "American Express",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-086-tiaa",
+    "companyName": "TIAA",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-087-oracle",
+    "companyName": "Oracle",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-088-broadcom",
+    "companyName": "Broadcom",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-089-general-dynamics",
+    "companyName": "General Dynamics",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-090-coca-cola",
+    "companyName": "Coca-Cola",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-091-usaa",
+    "companyName": "USAA",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-092-honeywell-international",
+    "companyName": "Honeywell International",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-093-lockheed-martin",
+    "companyName": "Lockheed Martin",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-094-deere",
+    "companyName": "Deere",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-095-charles-schwab",
+    "companyName": "Charles Schwab",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-096-new-york-life-insurance",
+    "companyName": "New York Life Insurance",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-097-stonex-group",
+    "companyName": "StoneX Group",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-098-molina-healthcare",
+    "companyName": "Molina Healthcare",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  },
+  {
+    "id": "company-099-travelers",
+    "companyName": "Travelers",
+    "statusKey": "new",
+    "statusLabel": "New Order",
+    "liveVersion": "",
+    "upgradeOrNewOrder": "New",
+    "v3Release": "",
+    "v3ReleaseRaw": "",
+    "initialReleaseDate": "",
+    "initialReleaseDateRaw": "",
+    "dateOrdered": "",
+    "daysCompleted": "",
+    "ongoingV2Production": "",
+    "iosDownloads": "",
+    "androidDownloads": "",
+    "pushNotification": "",
+    "deleteAccountFeature": "",
+    "accountFeature": {
+      "value": "unknown",
+      "label": ""
+    },
+    "media": {
+      "value": "unknown",
+      "label": ""
+    },
+    "aiFeatures": {
+      "value": "unknown",
+      "label": ""
+    },
+    "initialIosRelease": "",
+    "initialAndroidRelease": "",
+    "dateField": "",
+    "comments": "Placeholder company record",
+    "hasChanges": "No",
+    "salesOnboardingPoc": [],
+    "salesOnboardingPocRaw": "",
+    "pssPoc": [],
+    "devPoc": [],
+    "country": "Placeholder",
+    "market": "Placeholder",
+    "stockExchange": "Placeholder",
+    "dynamicContent": "",
+    "manualUpdateModule": "",
+    "marketingMaterial": [
+      "https://www.company.com"
+    ],
+    "marketingMaterialRaw": "https://www.company.com",
+    "androidClosedTesting": [
+      "https://www.company.com"
+    ],
+    "androidClosedTestingRaw": "https://www.company.com",
+    "androidInternalTesting": [
+      "https://www.company.com"
+    ],
+    "androidInternalTestingRaw": "https://www.company.com",
+    "lastUpdated": ""
+  }
+]
